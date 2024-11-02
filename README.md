@@ -56,35 +56,8 @@ I recently got interested in voice acting and found it fun to learn how differen
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual_Studio_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
 </p>
 
----
+--
 
-### 💼 Professional Experience
-- **DirecTV AI Studio Intern** - Los Angeles, CA (August 2024 - Present)
-  - Enhancing recommendation engine by leading project team development to develop predictive models and insights.
-  - Predicting TV show popularity using Linear Regression and Random Forest.
-  - Analyzing thematic and sentiment trends in the overview column using LLMs.
-
-- **HealthSciTech Research Assistant** at UCI - Irvine, CA (August 2024 - Present)
-  - Detecting loneliness using multi-device data collection, achieving 82% accuracy.
-  - Optimizing AI/ML pipeline for multi-device data integration.
-
-- **Break Through Tech AI Fellow** at UCLA - Los Angeles, CA (March 2024 - Present)
-  - Selected from 3000+ applicants for the Break Through Tech AI program.
-  - Engaging in Machine Learning coursework with mentorship from industry professionals.
-
-- **Learning Assistant** at UCI - Irvine, CA (March 2024 - June 2024)
-  - Assisted over 300+ students in understanding concepts in operating systems, compilers, and networking.
-
-### 🛠 Projects
-- **ZotSearch Search Engine** (March 2024 - June 2024)
-  - Developed a search engine that indexes and retrieves information, ranked by cosine similarity and TF-IDF.
-  - Integrated OpenAI’s GPT-3.5 for concise summaries of search results.
-
-- **Minesweeper AI** (March 2024 - June 2024)
-  - Developed an AI to solve Minesweeper using backtracking and heuristic search.
-
-- **Multi-Process Shell** (January 2024 - March 2024)
-  - Created a multi-process shell in C utilizing system calls and POSIX signals for process management.
-
-- **Custom Memory Allocator** (January 2024 - March 2024)
-  - Implemented algorithms for efficient memory management in C.
+### 👀 Where to find me
+<p><a href="https://github.com/safiabout" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/safia-boutaleb/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
