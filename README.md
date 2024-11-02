@@ -26,7 +26,7 @@ How to reach me: [safiaboutalebab@gmail.com](mailto:safiaboutalebab@gmail.com) o
 She/Her
 
 ### ⚡ Fun Fact
-I recently gained interest in voice acting and found it fun to learn how different vocal techniques bring characters to life in video games, anime, and movies!
+I recently got interested in voice acting and found it fun to learn how different vocal techniques bring characters to life in video games, anime, and movies!
 
 ---
 
