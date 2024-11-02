@@ -20,7 +20,7 @@ I’m seeking assistance with advanced clustering techniques and enhancing recom
 Data science, machine learning, or my current projects!
 
 ### 📫 Contact
-How to reach me: [safiabout@example.com](mailto:safiabout@example.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/safia).
+How to reach me: [safiaboutalebab@gmail.com](mailto:safiaboutalebab@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/safia-boutaleb/).
 
 ### 😄 Pronouns
 She/Her
