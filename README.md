@@ -1,18 +1,8 @@
-## Hi there 👋 My name is Safia
+## Hi there 👋 My name is Safia, and I am a Computer Science Student!
 
 <!--
 **safiabout/safiabout** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-
-### 🎓 Education
-- **University of California, Irvine**
-  - B.S. in Computer Science | Intelligent Systems Specialization
-  - Graduating June 2025
-  - GPA: 3.841, Dean’s Honor List (Every Quarter)
-  
-- **Cornell University**
-  - Machine Learning Foundations e-Certificate
-  - May 2024 - August 2024
 
 ### 🔭 Current Work
 I’m currently working on a project called **Next Gen TV Show Recommendations** that explores trends in TV show popularity to enhance recommendation systems for DirecTV.
@@ -30,19 +20,18 @@ I’m seeking assistance with advanced clustering techniques and enhancing recom
 Data science, machine learning, or my current projects!
 
 ### 📫 Contact
-How to reach me: [safiabout@example.com](mailto:safiabout@example.com) (replace with your email) or connect with me on [LinkedIn](https://www.linkedin.com/in/safia) (replace with your LinkedIn).
+How to reach me: [safiabout@example.com](mailto:safiabout@example.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/safia).
 
 ### 😄 Pronouns
 She/Her
 
 ### ⚡ Fun Fact
-I love exploring new TV shows and movies, and I’m passionate about improving how we find our next favorite show!
+I recently gained interest in voice acting and found it fun to learn how different vocal techniques bring characters to life in video games, anime, and movies!
 
 ---
 
-### 🛠 Tech Stack
+### 💻 Things I code with
 
-<h3>Things I code with</h3>
 <p>
   <img alt="C" src="https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -99,8 +88,3 @@ I love exploring new TV shows and movies, and I’m passionate about improving h
 
 - **Custom Memory Allocator** (January 2024 - March 2024)
   - Implemented algorithms for efficient memory management in C.
-
-### 💻 Skills
-- **Programming Languages:** C, Python, C++, C#, Swift, HTML, CSS, JavaScript
-- **Libraries & Frameworks:** Matplotlib, NumPy, Pandas, Scikit-learn, Seaborn, Flask, OpenAI, React.js, SwiftUI
-- **Applications & Tools:** Jupyter, Visual Studio Code, GitHub, GitLab, Unity, Docker
