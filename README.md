@@ -13,18 +13,6 @@ I’m currently expanding my knowledge in machine learning techniques and levera
 ### 👯 Collaboration
 I’m looking to collaborate on projects involving data preprocessing, feature engineering, and machine learning applications in the entertainment industry.
 
-### 🤔 Seeking Help
-I’m seeking assistance with advanced clustering techniques and enhancing recommendation algorithms.
-
-### 💬 Ask Me About
-Data science, machine learning, or my current projects!
-
-### 📫 Contact
-How to reach me: [safiaboutalebab@gmail.com](mailto:safiaboutalebab@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/safia-boutaleb/).
-
-### 😄 Pronouns
-She/Her
-
 ### ⚡ Fun Fact
 I recently got interested in voice acting and found it fun to learn how different vocal techniques bring characters to life in video games, anime, and movies!
 
@@ -56,7 +44,7 @@ I recently got interested in voice acting and found it fun to learn how differen
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual_Studio_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
 </p>
 
---
+---
 
 ### 👀 Where to find me
 <p><a href="https://github.com/safiabout" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/safia-boutaleb/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
