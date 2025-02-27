@@ -13,9 +13,6 @@ I’m currently expanding my knowledge in machine learning techniques and levera
 ### 👯 Collaboration
 I’m looking to collaborate on projects involving data preprocessing, feature engineering, and machine learning applications in the entertainment industry.
 
-### ⚡ Fun Fact
-I recently got interested in voice acting and found it fun to learn how different vocal techniques bring characters to life in video games, anime, and movies!
-
 ---
 
 ### 💻 Things I code with
