@@ -4,14 +4,14 @@
 **safiabout/safiabout** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-### 🔭 Current Work
-I’m currently working on a project called **Next Gen TV Show Recommendations** that explores trends in TV show popularity to enhance recommendation systems for DirecTV.
+### 🔭 Previous Work
+I have worked on a project called **Next Gen TV Show Recommendations** that explores trends in TV show popularity to enhance recommendation systems for DirecTV.
 
 ### 🌱 Learning
 I’m currently expanding my knowledge in machine learning techniques and leveraging large language models for data analysis.
 
 ### 👯 Collaboration
-I’m looking to collaborate on projects involving data preprocessing, feature engineering, and machine learning applications in the entertainment industry.
+I’m looking to collaborate on projects involving software development, data preprocessing, feature engineering, and machine learning applications!
 
 ---
 
