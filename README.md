@@ -7,13 +7,13 @@
 https://safiaboutaleb.vercel.app/
 
 ### 🔭 Previous Work
-I have worked on a project called **Next Gen TV Show Recommendations** that explores trends in TV show popularity to enhance recommendation systems for DirecTV.
+I have worked on a project called *Fabflix – Full-Stack Movie Web Application* which is a movie app with Java Servlets, MySQL, and AWS EC2, featuring ETL data ingestion (~50K+ records), caching, and a checkout system.
 
 ### 🌱 Learning
-I’m currently expanding my knowledge in machine learning techniques and leveraging large language models for data analysis.
+I’m currently diving into Spring Boot to build scalable backend services and strengthen my full-stack development skills.
 
 ### 👯 Collaboration
-I’m looking to collaborate on projects involving software development, data preprocessing, feature engineering, and machine learning applications!
+I’m looking to collaborate on projects involving backend technologies, APIs, databases, and distributed systems!
 
 ---
 
