@@ -3,8 +3,7 @@
 <!--
 **safiabout/safiabout** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-### 💻 Visit My Website
-https://safiaboutaleb.vercel.app/
+### 💻 Visit My Website: [safiaboutaleb.vercel.app](https://safiaboutaleb.vercel.app/)
 
 ### 🔭 Previous Work
 I have worked on a project called *Fabflix – Full-Stack Movie Web Application* which is a movie app with Java Servlets, MySQL, and AWS EC2, featuring ETL data ingestion (~50K+ records), caching, and a checkout system.
