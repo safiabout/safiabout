@@ -22,8 +22,9 @@ When I’m not coding, I enjoy playing the guitar 🎸 or diving into story-driv
 ### 💻 Things I code with
 
 <p>
-  <img alt="C" src="https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white" />
+  <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img alt="C" src="https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white" />
   <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
   <img alt="C#" src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white" />
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
@@ -48,7 +49,6 @@ When I’m not coding, I enjoy playing the guitar 🎸 or diving into story-driv
   <img alt="Spring Boot" src="https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />
   <img alt="Maven" src="https://img.shields.io/badge/-Maven-C71A36?style=flat-square&logo=apache-maven&logoColor=white" />
   <img alt="Tomcat" src="https://img.shields.io/badge/-Tomcat-F8DC75?style=flat-square&logo=apache-tomcat&logoColor=black" />
-  <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" />
   <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/-IntelliJ_IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white" />
 </p>
 
