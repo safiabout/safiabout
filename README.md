@@ -16,6 +16,7 @@ I’m looking to collaborate on projects involving backend technologies, APIs, d
 
 ### ⚡ Fun Fact
 When I’m not coding, I enjoy playing story-driven games like Persona 3 Reload 🎮
+
 ---
 
 ### 💻 Things I code with
