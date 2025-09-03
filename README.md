@@ -15,7 +15,7 @@ I’m currently diving into Spring Boot to build scalable backend services and s
 I’m looking to collaborate on projects involving backend technologies, APIs, databases, and distributed systems!
 
 ### ⚡ Fun Fact
-When I’m not coding, I enjoy playing the guitar 🎸 or diving into story-driven games like Persona 3 Reload 🎮
+When I’m not coding, I enjoy playing the guitar 🎸 or diving into story-driven games like Persona, Hades, and Final Fantasy. 🎮
 
 ---
 
@@ -49,6 +49,7 @@ When I’m not coding, I enjoy playing the guitar 🎸 or diving into story-driv
   <img alt="Maven" src="https://img.shields.io/badge/-Maven-C71A36?style=flat-square&logo=apache-maven&logoColor=white" />
   <img alt="Tomcat" src="https://img.shields.io/badge/-Tomcat-F8DC75?style=flat-square&logo=apache-tomcat&logoColor=black" />
   <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" />
+  <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/-IntelliJ_IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white" />
 </p>
 
 ---
