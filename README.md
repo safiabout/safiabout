@@ -15,7 +15,7 @@ I’m currently diving into Spring Boot to build scalable backend services and s
 I’m looking to collaborate on projects involving backend technologies, APIs, databases, and distributed systems!
 
 ### ⚡ Fun Fact
-When I’m not coding, I enjoy playing story-driven games like Persona 3 Reload 🎮
+When I’m not coding, I enjoy playing the guitar 🎸 or diving into story-driven games like Persona 3 Reload 🎮
 
 ---
 
